@@ -3,5 +3,7 @@
 int main()
 {
 
-	std::cout << "asbghfg";
+	std::cout << "asbghfg //version control
+
+	std::cout << "ghghgbthgb //version control 
 } 
